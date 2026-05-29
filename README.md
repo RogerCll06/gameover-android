@@ -1,6 +1,6 @@
-# GameOver (CineFlow) - Android CRUD
+# GameOver  - Android CRUD
 
-GameOver (CineFlow) es una aplicación nativa de Android que funciona como un CRUD para gestionar videojuegos y sus categorías correspondientes. Cuenta con una interfaz intuitiva y premium con temática oscura y acentos dorados, diseñada con Jetpack Compose.
+GameOver  es una aplicación nativa de Android que funciona como un CRUD para gestionar videojuegos y sus categorías correspondientes. Cuenta con una interfaz intuitiva y premium con temática oscura y acentos dorados, diseñada con Jetpack Compose.
 
 ## Instalación
 
