@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- Background Circle -->
+    <path
+        android:pathData="M100,100m-90,0a90,90 0,1 1,180 0a90,90 0,1 1,-180 0"
+        android:fillColor="#FFD700"/> <!-- CineGold -->
+
+    <!-- Inner Circle for Contrast -->
+    <path
+        android:pathData="M100,100m-75,0a75,75 0,1 1,150 0a75,75 0,1 1,-150 0"
+        android:fillColor="#121212"/> <!-- CineDarkBackground -->
+
+    <!-- Play Button Shape -->
+    <path
+        android:pathData="M85,70 L130,100 L85,130 Z"
+        android:fillColor="#FFD700"/>
+
+    <!-- Flow Lines -->
+    <path
+        android:pathData="M40,100 Q60,80 80,100 T120,100"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"/>
+        
+    <path
+        android:pathData="M40,120 Q60,100 80,120 T120,120"
+        android:strokeColor="#FFD700"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:alpha="0.5"/>
+</vector>
