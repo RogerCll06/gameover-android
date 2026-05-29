@@ -64,4 +64,15 @@ Las capturas de pantalla de la aplicación están organizadas en la carpeta `sce
 *   **AndroidManifest.xml:** Archivo XML obligatorio en la raíz del conjunto de fuentes del proyecto Android. En él se declaran componentes clave como pantallas (`Activities`), servicios, permisos del sistema (internet, almacenamiento) y metadatos generales.
 *   **Gradle Scripts:** Sistema de automatización de compilación moderno. Configura el SDK mínimo/objetivo, define dependencias externas (librerías), firma del APK y automatiza el empaquetado del software.
 
+## 📬 Contacto
+
+* 👨‍💻 Desarrollador: Roger Erik Concepción León
+* 🐙 GitHub: https://github.com/RogerCll06
+* 📧 Email: concepcionleonrogererik@gmail.com
+
+---
+
+⭐ Si te gustó este proyecto, no olvides dejar una estrella en el repositorio.
+
+
 
